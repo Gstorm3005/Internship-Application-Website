@@ -49,4 +49,4 @@ Meet the minds behind this project:
 - Nabil Taleb
 - Larbi Lyes Merakeb
 
-Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊🚀
+Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊
