@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 
 ## Contributors 🧑‍💻
 Meet the minds behind this project:
-- Mohammed Reda Guellati
+- Zamouche Nadir
 - Nabil Taleb
 - Larbi Lyes Merakeb
 
